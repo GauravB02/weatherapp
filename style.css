@@ -11,20 +11,6 @@
     --main-color: #18a1eb;
 }
 
-html {
-    font-size: 62.5%;
-}
-
-body {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-
-.row {
-    margin: 0;
-}
-
 .main_menu {
     background-color: var(--main-bg);
 }
