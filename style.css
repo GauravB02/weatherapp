@@ -7,8 +7,8 @@
 }
 
 :root {
-    --main-bg: #1e272e;
-    --main-color: #0097e6;
+    --main-bg: #01070b;
+    --main-color: #18a1eb;
 }
 
 html {
@@ -30,7 +30,7 @@ body {
 }
 
 .navbar {
-    color: #fff;
+    color: #aeaaaa;
     background-color: var(--main-bg);
     padding: 2rem 0;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 .navbar-toggler {
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
 }
 
 .fa-snowflake {
